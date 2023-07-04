@@ -1,0 +1,44 @@
+##
+## .gitignore for my_rpg
+##
+
+# Miscelleanous
+.vscode
+*.pdf
+*.txt
+*.log
+vgcore.*
+*test*
+*.zip
+StreetsOfRogueAssets
+*gdb*
+
+## useful note file
+!focus_note.txt
+
+# main
+test*
+
+## Binary
+*.out
+*.gcno
+*.gcda
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.a
+*.obj
+*.gch
+*.old
+*~
+
+# .gitignore
+!.gitignore
+
+# trash
+.trash
+/log
+*valgrind.log.core.*
+*.49.3
